@@ -6,7 +6,7 @@
 /*   By: gaesteve <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/11 16:54:36 by gaesteve          #+#    #+#             */
-/*   Updated: 2023/09/11 16:54:37 by gaesteve         ###   ########.fr       */
+/*   Updated: 2023/09/12 16:52:29 by gaesteve         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,6 @@ typedef struct s_point
 {
 	int	x;
 	int	y;
-}				t_point;
+}		t_point;
 
 #endif

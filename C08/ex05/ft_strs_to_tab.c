@@ -6,12 +6,12 @@
 /*   By: gaesteve <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/11 18:39:51 by gaesteve          #+#    #+#             */
-/*   Updated: 2023/09/12 16:56:44 by gaesteve         ###   ########.fr       */
+/*   Updated: 2023/09/12 17:03:48 by gaesteve         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
-#include "ft_strs_to_tab.h"
+#include "ft_stock_str.h"
 
 int	ft_strlen(char *str)
 {
