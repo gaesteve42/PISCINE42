@@ -1,5 +1,5 @@
-#include <unistd.h>
-#include "ft_stock_str.h"
+
+#include "ft_strs_to_tab.h"
 
 void	ft_putchar(char c)
 {
@@ -38,7 +38,7 @@ void	ft_putnbr(int nb)
 		 ft_putchar(nb + 48);
 }
 
-void	ft_show_tab(struct s_stock_str *par)
+void ft_show_tab(struct s_stock_str *par)
 {
 	int	index;
 
